@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently looking for oppoturnity
-- 🌱 I’m currently learning AWS
+- 🔭 I’m learning about data
+- 🌱 I’m currently work at Accenture
 - 💬 Ask me about everything
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: I wanna learn anything you share with me
